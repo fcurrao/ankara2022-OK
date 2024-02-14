@@ -1472,7 +1472,13 @@ a {
     width: 105%;
 }
 
-.divimgab {}
+.divimgab {
+    width: 400px;
+    height: 600px;
+    background-image: url(/public/assets/img/aboutImg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .font {
     font-family: 'Poppins', sans-serif !important;

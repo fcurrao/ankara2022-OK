@@ -42,7 +42,7 @@ const Aboutus = () => {
 
 
                 <div className="divimgab">
-                    <img className="imgab" src='../../public/assets/img/aboutImg.jpg'></img>
+                
                 </div>
 
 
