@@ -2030,7 +2030,7 @@ a {
 }
 
 .divtitulo {
-    background: url(http://malikhassan.com/html/evernest/images/innerHeading.jpg);
+    background: url('../../public/assets/img/innerHeading.jpg');
     padding: 16px 0;
     background-size: cover;
     text-align: center;

@@ -42,7 +42,7 @@ const Aboutus = () => {
 
 
                 <div className="divimgab">
-                    <img className="imgab" src="http://malikhassan.com/html/evernest/images/aboutImg.jpg"></img>
+                    <img className="imgab" src='../../public/assets/img/aboutImg.jpg'></img>
                 </div>
 
 
@@ -74,11 +74,11 @@ const Aboutus = () => {
 
 
                 <section className="sold"> 
-                <img className="imggg imghovdiag" src=" https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-24-at-9.01.31-AM-480x331.jpeg" ></img>
-                <img className="imggg imghovdiag" src="https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-24-at-9.01.11-AM-480x331.jpeg" ></img>
-                <img className="imggg imghovdiag" src="https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-24-at-9.00.55-AM-480x331.jpeg" ></img>
-                <img className="imggg imghovdiag" src="https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-24-at-9.00.16-AM-480x331.jpeg" ></img>
-                       
+                <img className="imggg imghovdiag" src="https://assets.easybroker.com/property_images/753530/11433685/EB-BW3530.jpg?version=1530304048" ></img>
+                    <img className="imggg imghovdiag" src="https://assets.easybroker.com/property_images/828155/12491650/EB-CD8155.jpg?version=1537234270" ></img>
+                    <img className="imggg imghovdiag" src="https://assets.easybroker.com/property_images/865026/13037367/EB-CH5026.jpg?version=1540961126" ></img>
+                    <img className="imggg imghovdiag" src="https://assets.easybroker.com/property_images/865066/13037766/EB-CH5066.jpg?version=1540964482" ></img>
+ 
                 </section>   
 
 
@@ -105,7 +105,7 @@ const Aboutus = () => {
                     <div className='fyd1'>
                         <div className='f1'>
                             <div className="divmargin">
-                                <img className="picagent" src="https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-16-at-8.16.04-PM.jpeg" ></img>
+                            <img className="picagent" src="https://img.freepik.com/foto-gratis/mujer-negocios-camisa-blanca-aislada-fondo-blanco_1303-13182.jpg?w=740&t=st=1707917630~exp=1707918230~hmac=b7127c198df81bf3883dc378376869128826dc090673020472224ac8b49a6aa7" ></img>
                                 <div className="agent2x"></div>
                                 <section className='nameagent'>
                                     <h2 className="namea">  NORMA ANGÉLICA ARTEAGA RUIZ</h2>
@@ -148,7 +148,7 @@ const Aboutus = () => {
                     <div className='fyd2'>
                         <div className='f2'>
                             <div className="divmargin2">
-                                <img className="picagent" src="https://www.ankararealestate.mx/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-10-at-9.25.41-AM.jpeg" ></img>
+                            <img className="picagent" src="https://img.freepik.com/foto-gratis/retrato-empresaria-joven-sonriente-pie-su-brazo-cruzado-contra-pared-gris_23-2147943827.jpg?w=826&t=st=1707917632~exp=1707918232~hmac=4e7a1e6987f4b856eb243d570098531a9c39e2901acdf6587242ffb23c064e44" ></img>
                                 <div className="agent2x"></div>
                                 <section className='nameagent'>
                                     <h2 className="namea"> CLAUDIA GRISEL CANCHOLA GRANADOS</h2>
@@ -190,7 +190,7 @@ const Aboutus = () => {
                         <div className='f3'>
                             <div className="divmargin3">
 
-                                <img className="picagent" src="https://www.ankararealestate.mx/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-21-at-2.48.19-PM.jpeg" ></img>
+                            <img className="picagent" src="https://img.freepik.com/foto-gratis/hombre-negocios-feliz-vestido-traje-gris-que-encuentran-aisladas-pared-blanca_231208-9211.jpg?w=740&t=st=1707917606~exp=1707918206~hmac=25e44e6d6d921fd09eb8811b722cde3f4bed26eba2dbd9bb1fa9a2034d2ed442" ></img>
 
                                 <div className="agent2x"></div>
 
