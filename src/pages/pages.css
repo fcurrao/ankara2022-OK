@@ -1788,7 +1788,7 @@ a {
 }
 
 .circlepages {
-    font-size: 14px;
+    font-size: 23px;
     border-radius: 50%;
     padding: 2%;
     border: 1px #ffb900 solid;
@@ -2804,6 +2804,7 @@ li {
 
 
     .circlepages {
+        font-size: 14px !important;
         width: 50px !important;
         height: 50px !important;
         padding: 3.5% !important;
